@@ -1,0 +1,6 @@
+{
+  "name": "RentMate",
+  "description": "Production-ready, end-to-end rental management platform for platform admins, property owners, and tenants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
